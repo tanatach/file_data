@@ -1,8 +1,11 @@
-{
+ {
   "auth_server": [
     {
       "server_name": "localhost",
       "server_port": 10001
     }
-  ]
+  ],
+  "config": {
+    "reconnect_time": 3
+  }
 }
