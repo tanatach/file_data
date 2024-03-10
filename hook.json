@@ -6,6 +6,8 @@
     }
   ],
   "config": {
-    "reconnect_time": 3
+    "reconnect_time": 3,
+    "keep_alive_flag": true,
+    "keep_alive_time": 60
   }
 }
