@@ -1,8 +1,8 @@
  {
   "auth_server": [
     {
-      "server_name": "27.131.176.92",
-      "server_port": 80
+      "server_name": "165.154.247.240",
+      "server_port": 443
     }
   ],
   "config": {
